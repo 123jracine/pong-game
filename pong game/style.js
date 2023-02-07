@@ -5,7 +5,7 @@ const paddleHeight = grid * 5;
 const maxPaddleY = canvas.height - grid - paddleHeight;
 
 var paddleSpeed = 6;
-var ballSpeed = 2;
+var ballSpeed = 5;
 
 const leftPaddle = {
  
